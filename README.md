@@ -10,10 +10,12 @@ tensorboard==2.10.1<br />
 gym==0.26.2<br />
 
 
-# cite
+# Citation
+```
 @article{li2023autonomous,
   title={Autonomous Exploration and Mapping for Mobile Robots via Cumulative Curriculum Reinforcement Learning},
   author={Li, Zhi and Xin, Jinghao and Li, Ning},
   journal={arXiv preprint arXiv:2302.13025},
   year={2023}
 }
+```
